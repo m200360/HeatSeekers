@@ -1,5 +1,5 @@
 # HeatSeekers
 
 int main(){
-printf('Git money, seek heat/n');
+printf('Seek heat, git money./n');
 }
